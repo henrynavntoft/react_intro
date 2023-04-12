@@ -1,0 +1,22 @@
+* {
+  color: white;
+}
+
+body {
+  background-color: #002459;
+}
+
+#root {
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  list-style: none;
+  margin: 1rem;
+}

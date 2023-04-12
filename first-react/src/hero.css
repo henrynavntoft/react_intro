@@ -1,0 +1,13 @@
+section {
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+img {
+  max-width: 100%;
+}
+
+span {
+  color: #28abff;
+}
